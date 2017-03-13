@@ -1,5 +1,8 @@
 _repo: On-Heroes-Hero-Worship-and-the-Heroic-in-History_1091
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Carlyle, Thomas
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/523
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Carlyle
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1091#On-Heroes-Hero-Worship-and-the-Heroic-in-History
 gutenberg_issued: '1997-11-01'
 gutenberg_type: Text
 identifiers:
